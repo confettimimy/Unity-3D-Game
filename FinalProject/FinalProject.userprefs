@@ -1,0 +1,21 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Prefab\NormalPeopleStatus.js">
+    <Files>
+      <File FileName="Assets\Script\PlayerStatus.js" Line="19" Column="35" />
+      <File FileName="Assets\Script\particle.js" Line="1" Column="1" />
+      <File FileName="Assets\Script\CriminalStatus.js" Line="1" Column="1" />
+      <File FileName="Assets\Prefab\NormalPeopleStatus.js" Line="1" Column="1" />
+      <File FileName="Assets\Script\PeopleGenerator.js" Line="1" Column="1" />
+      <File FileName="Assets\Script\CriminalJackpot.js" Line="1" Column="1" />
+      <File FileName="Assets\Script\Ending.js" Line="1" Column="1" />
+      <File FileName="Assets\Script\CommonJackpot.js" Line="1" Column="1" />
+      <File FileName="Assets\MainChracter\Scripts\LevelScripts\ThirdPersonOrbitCam.cs" Line="1" Column="1" />
+      <File FileName="Assets\Background\Standard Assets\Effects\ImageEffects\Scripts\Tonemapping.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
